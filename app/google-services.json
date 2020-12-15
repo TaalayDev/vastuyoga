@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "442129388862",
+    "firebase_url": "https://vyproject-78a28.firebaseio.com",
+    "project_id": "vyproject-78a28",
+    "storage_bucket": "vyproject-78a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442129388862:android:ab3d186aef4b387056086f",
+        "android_client_info": {
+          "package_name": "kg.vy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442129388862-uohcb888k0t4h4vg5nro44pipavk467e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXYwSS1pRt4L5-dHR1L7qrywH2msUHkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442129388862-uohcb888k0t4h4vg5nro44pipavk467e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

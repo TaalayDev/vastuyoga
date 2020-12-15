@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vastu Yoga</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select">выбрать</string>
+    <string name="loading">загрузка</string>
+    <string name="enter">войти</string>
+    <string name="no_ads"><u>VY без рекламы</u></string>
+    <string name="hour_ch">ч</string>
+    <string name="minute_ch">м</string>
+    <string name="venergy">VENERGY</string>
+    <string name="mute">откл. звук</string>
+    <string name="exit">выйти</string>
+    <string name="err_enter_name">введите имя</string>
+    <string name="name">Имя</string>
+
+    <string name="chinese">Китайский</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="japanese">Японский</string>
+    <string name="korean">Корейский</string>
+
+    <string name="facebook_signin">Sign in with Facebook</string>
+    <string name="google_signin">Sign in with Google</string>
+    <string name="instagram_signin">Sign in with Instagram</string>
+    <string name="twitter_signin">Sign in with Twitter</string>
+
+</resources>

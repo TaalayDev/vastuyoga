@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Vastu Yoga</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="facebook_app_id" translatable="false">403631456912046</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb403631456912046</string>
+
+    <string name="twitter_consumer_key" translatable="false">zYmcnOej4sqYTpWKnVxoGq9V8</string>
+    <string name="twitter_consumer_secret" translatable="false">cGuTUPPfe8Y2uQPGmnJZwn78CSRHgCbTloTzTFKdQbKrbXRLR0</string>
+
+    <string name="def_web_client_id" translatable="false">442129388862-uohcb888k0t4h4vg5nro44pipavk467e.apps.googleusercontent.com</string>
+
+    <string name="rewarded_ad_id" translatable="false">ca-app-pub-8802390173696057/2275686692</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select">choose</string>
+    <string name="loading">loading</string>
+    <string name="enter">enter</string>
+    <string name="no_ads">VY no ads</string>
+    <string name="hour_ch">h</string>
+    <string name="minute_ch">m</string>
+    <string name="venergy">VENERGY</string>
+    <string name="mute">mute</string>
+    <string name="exit">exit</string>
+    <string name="err_enter_name">enter your name</string>
+    <string name="name">Name</string>
+
+    <string name="chinese">Chinese</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="japanese">Japanese</string>
+    <string name="korean">Korean</string>
+
+    <string name="facebook_signin">Sign in with Facebook</string>
+    <string name="google_signin">Sign in with Google</string>
+    <string name="instagram_signin">Sign in with Instagram</string>
+    <string name="twitter_signin">Sign in with Twitter</string>
+
+</resources>

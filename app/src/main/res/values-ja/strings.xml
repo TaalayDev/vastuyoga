@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vastu Yoga</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="select">選択する</string>
+    <string name="loading">読み込み中</string>
+    <string name="enter">ログオンする</string>
+    <string name="no_ads">広告なしVY</string>
+    <string name="hour_ch">h</string>
+    <string name="minute_ch">m</string>
+    <string name="venergy">VENERGY</string>
+    <string name="mute">mute</string>
+    <string name="exit">exit</string>
+    <string name="err_enter_name">あなたの名前を入力してください</string>
+    <string name="name">名前</string>
+
+    <string name="chinese">中国の</string>
+    <string name="english">英国の</string>
+    <string name="russian">ロシア語</string>
+    <string name="japanese">日本の</string>
+    <string name="korean">韓国の</string>
+
+    <string name="facebook_signin">Sign in with Facebook</string>
+    <string name="google_signin">Sign in with Google</string>
+    <string name="instagram_signin">Sign in with Instagram</string>
+    <string name="twitter_signin">Sign in with Twitter</string>
+
+</resources>
